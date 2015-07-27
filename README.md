@@ -1,4 +1,4 @@
-# xmlrpc-lite
+# xmlrpc-lite [![Build Status](https://travis-ci.org/pqx/xmlrpc-lite.svg)](https://travis-ci.org/pqx/xmlrpc-lite)
 Simple xmlrpc client for node and browser
 - Object params support via `<struct>`
 - String type only
