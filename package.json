@@ -1,6 +1,6 @@
 {
   "name": "xmlrpc-lite",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Simple xmlrpc client for node and browser",
   "keywords": [
     "lite",
